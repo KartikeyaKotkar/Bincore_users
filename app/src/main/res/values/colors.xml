@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    -->
+
+        <color name="green_primary">#2E7D32</color>         <!-- dark green -->
+        <color name="green_primary_dark">#1B5E20</color>    <!-- darker green -->
+        <color name="green_accent">#A5D6A7</color>          <!-- accent -->
+        <color name="green_light">#C8E6C9</color>           <!-- light background -->
+        <color name="white">#FFFFFF</color>
+        <color name="colorBackground">#FFFFFF</color>
+
+</resources>

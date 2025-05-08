@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.BincoreUsers" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/green_accent</item>
+        <item name="colorOnSecondary">@color/green_primary</item>
+
+        <item name="colorSurface">@color/white</item>
+        <item name="android:colorBackground">@color/green_light</item>
+
+        <item name="android:statusBarColor">@color/green_primary_dark</item>
+
+        <item name="toolbarStyle">@style/CustomToolbar</item>
+    </style>
+
+    <style name="Theme.BincoreUsers" parent="Base.Theme.BincoreUsers" />
+
+    <style name="CustomToolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">@color/green_primary</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+</resources>
