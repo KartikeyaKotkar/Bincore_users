@@ -1,5 +1,6 @@
 
-#STILL IN PROGRESS
+# App is still in progress
+
 # BinCore - Smart Waste Management App
 
 BinCore is an Android application that promotes cleaner cities by encouraging users to dispose of waste properly and earn points. This app is part of a smart bin management system that integrates camera, user authentication, themes, and settings.
